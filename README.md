@@ -1,0 +1,2 @@
+# DoorCameraSpecialProject
+This is my first paid application. My customer needs app which launch browser with custom web link when device unplugged from usb. He has camera near the front door and old tablet built in the wall. When somebody rings in the doorbell tablet automatically unplugged from usb - the tablet is unlocking, the screen lights up and starts the browser. I will use Broadcast for run service in background and solve this problem.
